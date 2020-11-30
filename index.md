@@ -4,7 +4,7 @@
   Welcome to my site!
 </p>
 
-<a href="CV.pdf">Download File</a>
+[Download my CV]<a href="CV.pdf">Download File</a>
 
 ### Markdown
 
@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+(url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
