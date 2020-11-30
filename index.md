@@ -1,5 +1,16 @@
 ## Welcome to GitHub Pages
 
+---
+layout: home
+profile_picture:
+  src: /images/pp.png
+  alt: website picture
+---
+
+<p>
+  Welcome to mysite!
+</p>
+
 You can use the [editor on GitHub](https://github.com/lhmason/lhmason.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
