@@ -1,13 +1,7 @@
-## Welcome to GitHub Pages
-
-<img width="412" alt="pp" src="https://user-images.githubusercontent.com/36950204/100604849-c3f3e880-330f-11eb-9d7b-8cdbd897a42d.png">
-
----
 layout: home
 profile_picture:
   src: https://user-images.githubusercontent.com/36950204/100604849-c3f3e880-330f-11eb-9d7b-8cdbd897a42d.png
   alt: website picture
----
 
 <p>
   Welcome to mysite!
