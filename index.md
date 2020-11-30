@@ -4,7 +4,7 @@
   Welcome to my site!
 </p>
 
-[Download my CV]<a href="CV.pdf">Download File</a>
+<a href="CV.pdf">Download my CV</a>
 
 ### Markdown
 
