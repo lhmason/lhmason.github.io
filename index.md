@@ -7,6 +7,6 @@ I am interested in BSM physics, particularly in phenomenological applications of
 
 Email me: masonlara316 at gmail dot com
 
-<a href="CV_physics.pdf">Download my CV</a>
+Download my <a href="CV_physics.pdf">CV</a>
 
-<a href="https://orcid.org/0000-0001-9815-5411/print"> see my work here</a>
+See my work <a href="https://orcid.org/0000-0001-9815-5411/print"> here</a>
