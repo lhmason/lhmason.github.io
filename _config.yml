@@ -2,6 +2,8 @@ theme: jekyll-theme-minimal
 title: Lara Mason
 name: Lara Mason
 description: my personal page
+github:
+is\_project\_page:false
 
 header:
   pages:
