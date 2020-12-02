@@ -21,5 +21,4 @@ See my published work <a href="https://orcid.org/0000-0001-9815-5411/print"> her
   <p>
  BSc(Hons) Particle Physics <i> University of Cape Town (2015) </i> <a href="BscHons.pdf">here</a>
  </p>
-<p>
 </div>
