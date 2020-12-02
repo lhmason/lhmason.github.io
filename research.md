@@ -19,6 +19,6 @@ See my published work <a href="https://orcid.org/0000-0001-9815-5411/print"> her
  MPhil Particle Physics <i> University of Melbourne (2017) </i> <a href="{{ site.baseurl }}/MPhil-compressed.pdf">here</a>
  </p>
   <p>
- BSc(Hons) Particle Physics <i> University of Cape Town (2015) </i> <a href="{{ site.baseurl }}/BscHons.pdf">here</a>
+ BSc(Hons) Particle Physics <i> University of Cape Town (2015) </i> <a href="{{ site.baseurl }}/BScHons.pdf">here</a>
  </p>
 </div>
