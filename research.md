@@ -3,7 +3,7 @@ layout: page
 ---
 
 <p>
-Download my <a href="lhmason.github.io/CV_physics.pdf">CV</a>
+Download my <a href="https://github.com/lhmason/lhmason.github.io/blob/main/CV_physics.pdf">CV</a>
 </p>
 <p>
 See my published work <a href="https://orcid.org/0000-0001-9815-5411/print"> here</a>
