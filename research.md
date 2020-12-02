@@ -2,6 +2,7 @@
 layout: page
 title: work
 ---
+<hr>
 
 <p>
 Download my <a href="{{ site.baseurl }}/CV_physics.pdf">CV</a>
