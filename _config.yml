@@ -21,10 +21,15 @@ sass:
 author:
   name:              Lara Mason
   url:               lhmason.github.io
-  email:             lara@mason.com
+  email:             masonlara316@gmail.com
 
 plugins:
   - jekyll-coffeescript
   - jekyll-paginate
   - jekyll-gist
   - jekyll-seo-tag
+  
+social:
+  name: Lara Mason
+  
+google_site_verification: google38a2c15e146d6332
