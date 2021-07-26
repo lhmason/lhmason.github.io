@@ -10,7 +10,7 @@ Download my <a href="{{ site.baseurl }}/CV_physics.pdf">CV</a>
 <p>
 See my published <a href="https://orcid.org/0000-0001-9815-5411/print"> work</a>
 </p>
-My Github is <a href="https://github.com/lhmason"> here</a>
+Some things are on my <a href="https://github.com/lhmason"> GitHub</a>, and there's more about me on <a href="https://www.linkedin.com/in/lara-mason-b6a41659/"> LinkedIn</a>
 
 [//]: # (, and an example data analysis is <a href="{{ site.baseurl }}/MLexample/Titanic-task-Mason.ipynb">here</a> (using <a href="{{ site.baseurl }}/MLexample/titanic.csv">this</a> dataset).}
 
