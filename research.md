@@ -4,9 +4,7 @@ title: work
 ---
 <hr>
 
-<p>
-Download my <a href="{{ site.baseurl }}/CV_physics.pdf">CV</a>
-</p>
+
 <p>
 See my published <a href="https://orcid.org/0000-0001-9815-5411/print"> work</a>
 </p>
