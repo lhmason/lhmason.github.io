@@ -16,6 +16,10 @@ Some things are on my <a href="https://github.com/lhmason"> GitHub</a>, and ther
 <div class="boxed">
  <b> Theses </b>
 <p>
+    <p>
+ PhD Theoretical Particle Physics, Universite Lyon 1 (IP21) and University of Johannesburg (2021) <br>
+   <i> Extensions of the scalar sector: from compositeness to dark matter and back </i> <a href="{{ site.baseurl }}/PhD.pdf">here</a>
+ </p>
  MSc Medical Physics, University of the Witwatersrand (2018) <br>
  <i> The Harmony Search optimisation method as applied
   to high dose rate brachytherapy </i><a href="{{ site.baseurl }}/MSc.pdf">here</a>
@@ -31,9 +35,5 @@ reconstruction and identification efficiencies using
    <i> Measurements of dimuon resonances and
 the non-prompt J/Ψ production fraction in
     pp collisions at ATLAS at √s = 13 TeV </i> <a href="{{ site.baseurl }}/BScHons.pdf">here</a>
- </p>
-   <p>
- PhD Theoretical Particle Physics, Universite Lyon 1 (IP21) and University of Johannesburg (2021) <br>
-   <i> Extensions of the scalar sector: from compositeness to dark matter and back </i> <a href="{{ site.baseurl }}/PhD.pdf">here</a>
  </p>
 </div>
