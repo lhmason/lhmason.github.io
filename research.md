@@ -32,4 +32,8 @@ reconstruction and identification efficiencies using
 the non-prompt J/Ψ production fraction in
     pp collisions at ATLAS at √s = 13 TeV </i> <a href="{{ site.baseurl }}/BScHons.pdf">here</a>
  </p>
+   <p>
+ PhD Theoretical Particle Physics, Universite Lyon 1 (IP21) and University of Johannesburg (2021) <br>
+   <i> Extensions of the scalar sector: from compositeness to dark matter and back </i> <a href="{{ site.baseurl }}/PhD.pdf">here</a>
+ </p>
 </div>
