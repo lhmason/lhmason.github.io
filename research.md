@@ -17,7 +17,7 @@ Some things are on my <a href="https://github.com/lhmason"> GitHub</a>, and ther
  <b> Theses </b>
 <p>
     <p>
- PhD Theoretical Particle Physics, Universite Lyon 1 (IP21) and University of Johannesburg (2021) <br>
+ PhD Theoretical Particle Physics, Universite Claude Bernard Lyon 1 (IP21) and University of Johannesburg (2021) <br>
    <i> Extensions of the scalar sector: from compositeness to dark matter and back </i> <a href="{{ site.baseurl }}/PhD.pdf">here</a>
  </p>
  MSc Medical Physics, University of the Witwatersrand (2018) <br>
